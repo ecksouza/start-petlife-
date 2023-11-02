@@ -8,7 +8,7 @@ HTML
 - Criando a seção sobre a clinica
 - Criando as seções restantes
 - Criando o rodapé da página
- 
+
 CSS
 
 - Incluindo o CSS no site
